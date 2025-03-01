@@ -20,13 +20,18 @@ A simple Python script to verify the SHA-256 hash of a file. This script allows 
 1. Clone this repository:
    ```sh
    https://github.com/itzTron/FILE-INTEGRITY-CHECKER.git
+
+   ```
+2. Change Directory:
+   ```sh
    cd check_hash_1.py
    ```
-2. Ensure you have **Python 3** installed:
+   
+4. Ensure you have **Python 3** installed:
    ```sh
    python3 --version
    ```
-3. Make the script executable (optional, for Linux/macOS):
+5. Make the script executable (optional, for Linux/macOS):
    ```sh
    chmod +x check_hash_1.py
    ```
