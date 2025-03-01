@@ -1,4 +1,4 @@
-# FILE HASH VALUE CHECKER (SHA256 Hash Checker)
+# FILE HASH VALUE CHECKER (SHA256)
 
 A simple Python script to verify the SHA-256 hash of a file. This script allows you to:
 
